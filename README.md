@@ -1,0 +1,2 @@
+# classBaseComponent
+class base counter
